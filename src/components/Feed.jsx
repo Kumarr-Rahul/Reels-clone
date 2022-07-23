@@ -8,7 +8,7 @@ function Feed() {
         <img src="
         https://www.instagram.com/static/images/web/logged_out_wordmark.png/7a252de00b20.png
         " alt="" className="insta_img" />
-        <img src="https://media-exp1.licdn.com/dms/image/C5103AQHYIpz6Of4vqg/profile-displayphoto-shrink_100_100/0/1574668417312?e=1658966400&v=beta&t=SG1-vr3krQXLee6KV73OstspCdanLvmAmzcGclXRkl0"
+        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGCoTJ7Y768QQ/profile-displayphoto-shrink_400_400/0/1606484974613?e=1663804800&v=beta&t=zefdTPRlio1w4DDxShOTkQPM3QwHafDG8UNWuueeVsE"
           alt=""
           className="profile_img" />
       </div>
