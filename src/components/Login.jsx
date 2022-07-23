@@ -57,12 +57,11 @@ function Login() {
       }
       setMainLoader(false); //To hide login page while reloading
     });
-  }, []) //EMPTY ARRAY run once in lifetime
+  }, []); //EMPTY ARRAY run once in lifetime
 
   return (
     <>
       { 
-        mainLoader == true ? <h1>Page Loading...</h1> : 
         error != "" ? <h1>Error is {error}</h1> : 
         loader == true ? <h1>Loading...</h1> : 
         user != null ?
